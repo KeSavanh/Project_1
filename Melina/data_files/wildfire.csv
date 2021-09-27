@@ -1,0 +1,1637 @@
+Year,County,Acres Burned
+2013,Tuolumne,257314.0
+2013,Los Angeles,30274.0
+2013,Riverside,27531.0
+2013,Placer,27440.0
+2013,Ventura,24251.0
+2013,Fresno,22992.0
+2013,Riverside,20292.0
+2013,Siskiyou,14754.0
+2013,Humboldt,12503.0
+2013,Tehama,11429.0
+2013,Shasta,8073.0
+2013,San Diego,7055.0
+2013,Tehama,6965.0
+2013,Kern,4346.0
+2013,Ventura,4346.0
+2013,Sonoma,3505.0
+2013,Riverside,3166.0
+2013,Contra Costa,3111.0
+2013,San Diego,2781.0
+2013,Butte,2462.0
+2013,San Diego,2236.0
+2013,Tulare,2060.0
+2013,Santa Barbara,1984.0
+2013,Mariposa,1708.0
+2013,Riverside,1383.0
+2013,San Diego,1271.0
+2013,Tuolumne,1070.0
+2013,Monterey,917.0
+2013,Kern,794.0
+2013,Kern,712.0
+2013,Los Angeles,712.0
+2013,Kern,612.0
+2013,El Dorado,572.0
+2013,San Bernardino,534.0
+2013,Plumas,513.0
+2013,Riverside,510.0
+2013,Modoc,502.0
+2013,San Luis Obispo,500.0
+2013,Contra Costa,492.0
+2013,Madera,482.0
+2013,San Bernardino,413.0
+2013,Inyo,406.0
+2013,Napa,376.0
+2013,San Benito,354.0
+2013,Riverside,311.0
+2013,Butte,305.0
+2013,San Joaquin,303.0
+2013,Butte,298.0
+2013,Lake,296.0
+2013,Contra Costa,274.0
+2013,Madera,274.0
+2013,Los Angeles,268.0
+2013,San Diego,263.0
+2013,San Bernardino,243.0
+2013,Alameda,240.0
+2013,Placer,237.0
+2013,Glenn,226.0
+2013,Glenn,217.0
+2013,Monterey,213.0
+2013,San Bernardino,200.0
+2013,Tehama,200.0
+2013,Shasta,196.0
+2013,Tehama,195.0
+2013,Napa,190.0
+2013,Santa Barbara,170.0
+2013,Yolo,163.0
+2013,El Dorado,163.0
+2013,Sacramento,163.0
+2013,Sonoma,159.0
+2013,Sonoma,158.0
+2013,Alameda,150.0
+2013,Riverside,150.0
+2013,Stanislaus,150.0
+2013,Fresno,150.0
+2013,Butte,150.0
+2013,Los Angeles,149.0
+2013,Tulare,134.0
+2013,Sonoma,125.0
+2013,Solano,124.0
+2013,Merced,124.0
+2013,Riverside,124.0
+2013,Lake,120.0
+2013,El Dorado,116.0
+2013,San Bernardino,110.0
+2013,Fresno,108.0
+2013,Monterey,105.0
+2013,Los Angeles,100.0
+2013,Tuolumne,100.0
+2013,San Diego,100.0
+2013,Mendocino,98.0
+2013,Modoc,97.0
+2013,San Bernardino,97.0
+2013,Lassen,97.0
+2013,Amador,96.0
+2013,San Luis Obispo,94.0
+2013,Butte,92.0
+2013,Madera,91.0
+2013,Riverside,90.0
+2013,San Luis Obispo,85.0
+2013,Mendocino,82.0
+2013,Butte,80.0
+2013,Fresno,80.0
+2013,Tehama,75.0
+2013,San Bernardino,75.0
+2013,Madera,75.0
+2013,San Bernardino,75.0
+2013,Napa,75.0
+2013,San Bernardino,73.0
+2013,Yuba,73.0
+2013,Butte,72.0
+2013,Lake,70.0
+2013,Modoc,68.0
+2013,Ventura,64.0
+2013,Riverside,60.0
+2013,Riverside,60.0
+2013,Nevada,52.0
+2013,San Luis Obispo,51.0
+2013,Lake,50.0
+2013,Siskiyou,50.0
+2013,Santa Clara,50.0
+2013,Alameda,50.0
+2013,San Luis Obispo,50.0
+2013,Calaveras,46.0
+2013,Fresno,46.0
+2013,Mendocino,45.0
+2013,Ventura,44.0
+2013,Shasta,43.0
+2013,Riverside,42.0
+2013,San Mateo,41.0
+2013,Santa Clara,40.0
+2013,Orange,40.0
+2013,San Diego,40.0
+2013,Riverside,40.0
+2013,Siskiyou,40.0
+2013,Riverside,40.0
+2013,Riverside,40.0
+2013,Riverside,40.0
+2013,El Dorado,38.0
+2013,Lake,38.0
+2013,Alameda,38.0
+2013,Fresno,35.0
+2013,San Luis Obispo,35.0
+2013,Shasta,34.0
+2013,Shasta,33.0
+2013,Calaveras,31.0
+2013,Lake,30.0
+2013,Lake,30.0
+2013,San Bernardino,30.0
+2013,Sonoma,28.0
+2013,Solano,28.0
+2013,Lake,28.0
+2013,Colusa,28.0
+2013,Shasta,27.0
+2013,San Diego,25.0
+2013,Lake,25.0
+2013,Riverside,25.0
+2013,Lake,23.0
+2013,Mendocino,15.0
+2013,Riverside,15.0
+2013,Madera,15.0
+2013,Humboldt,0.0
+2013,Riverside,0.0
+2014,El Dorado,97717.0
+2014,Siskiyou,50042.0
+2014,Shasta,39736.0
+2014,Siskiyou,35302.0
+2014,Siskiyou,32496.0
+2014,Shasta,32416.0
+2014,San Diego,14416.0
+2014,Madera,13838.0
+2014,Modoc,13153.0
+2014,Shasta,12661.0
+2014,Mendocino,12536.0
+2014,Yolo,6488.0
+2014,Shasta,6258.0
+2014,Siskiyou,5503.0
+2014,San Diego,5367.0
+2014,Monterey,4840.0
+2014,Mariposa,4772.0
+2014,Mariposa,4689.0
+2014,Napa,4300.0
+2014,Lake,4300.0
+2014,Amador,4240.0
+2014,El Dorado,4240.0
+2014,Kern,4045.0
+2014,Kern,3895.0
+2014,San Bernardino,2143.0
+2014,San Diego,1995.0
+2014,Los Angeles,1952.0
+2014,Kern,1680.0
+2014,Modoc,1651.0
+2014,San Diego,1548.0
+2014,Modoc,1469.0
+2014,San Diego,1457.0
+2014,Shasta,1375.0
+2014,Mariposa,1080.0
+2014,Orange,968.0
+2014,Tehama,865.0
+2014,Mariposa,677.0
+2014,Santa Barbara,632.0
+2014,Madera,612.0
+2014,San Diego,600.0
+2014,Trinity,580.0
+2014,Siskiyou,516.0
+2014,Tuolumne,487.0
+2014,Placer,459.0
+2014,Mendocino,403.0
+2014,Monterey,400.0
+2014,Butte,389.0
+2014,San Diego,380.0
+2014,Riverside,350.0
+2014,Humboldt,333.0
+2014,Madera,320.0
+2014,Mariposa,311.0
+2014,Mariposa,300.0
+2014,Merced,300.0
+2014,Los Angeles,274.0
+2014,Tuolumne,269.0
+2014,Nevada,247.0
+2014,Tehama,225.0
+2014,San Diego,217.0
+2014,Humboldt,210.0
+2014,Los Angeles,190.0
+2014,Lake,175.0
+2014,Shasta,143.0
+2014,Mariposa,130.0
+2014,Santa Clara,125.0
+2014,San Diego,125.0
+2014,Calaveras,120.0
+2014,Placer,120.0
+2014,Inyo,113.0
+2014,Fresno,106.0
+2014,San Diego,105.0
+2014,Modoc,101.0
+2014,Lake,100.0
+2014,Riverside,100.0
+2014,El Dorado,94.0
+2014,Mariposa,90.0
+2014,Calaveras,85.0
+2014,Nevada,84.0
+2014,Santa Clara,80.0
+2014,Contra Costa,80.0
+2014,Mariposa,79.0
+2014,Riverside,78.0
+2014,Shasta,75.0
+2014,Monterey,75.0
+2014,Butte,72.0
+2014,Tuolumne,70.0
+2014,Kern,70.0
+2014,Solano,70.0
+2014,Inyo,65.0
+2014,Mendocino,62.0
+2014,Butte,60.0
+2014,Riverside,57.0
+2014,San Diego,56.0
+2014,Shasta,50.0
+2014,San Bernardino,48.0
+2014,San Luis Obispo,47.0
+2014,Fresno,40.0
+2014,Nevada,38.0
+2014,Humboldt,37.0
+2014,Stanislaus,37.0
+2014,Riverside,31.0
+2014,Siskiyou,30.0
+2014,El Dorado,30.0
+2014,San Diego,29.0
+2014,Napa,27.0
+2014,Ventura,25.0
+2014,Shasta,25.0
+2014,Fresno,25.0
+2014,El Dorado,20.0
+2014,San Diego,20.0
+2014,Humboldt,18.0
+2014,Trinity,15.0
+2014,Placer,14.0
+2014,Riverside,14.0
+2014,Madera,10.0
+2014,Napa,6.0
+2014,Siskiyou,0.0
+2015,Fresno,151623.0
+2015,Trinity,77081.0
+2015,Lake,69438.0
+2015,Trinity,36503.0
+2015,San Bernardino,31359.0
+2015,Del Norte,30361.0
+2015,Trinity,29416.0
+2015,Lake,25118.0
+2015,Napa,25118.0
+2015,Lassen,10570.0
+2015,Del Norte,7509.0
+2015,Inyo,7000.0
+2015,Mono,7000.0
+2015,Tulare,6980.0
+2015,Madera,5702.0
+2015,Humboldt,4883.0
+2015,Modoc,4863.0
+2015,San Bernardino,4250.0
+2015,Mono,3676.0
+2015,Alameda,2700.0
+2015,San Luis Obispo,2446.0
+2015,Nevada,2304.0
+2015,San Diego,1850.0
+2015,San Luis Obispo,1791.0
+2015,Trinity,1542.0
+2015,Merced,1450.0
+2015,Merced,1333.0
+2015,Monterey,1086.0
+2015,Riverside,1049.0
+2015,Butte,1042.0
+2015,Madera,920.0
+2015,Butte,860.0
+2015,Lake,673.0
+2015,San Benito,670.0
+2015,Riverside,543.0
+2015,Mono,509.0
+2015,Madera,500.0
+2015,Tulare,430.0
+2015,Mariposa,415.0
+2015,Los Angeles,415.0
+2015,Butte,400.0
+2015,Los Angeles,374.0
+2015,Amador,355.0
+2015,Los Angeles,300.0
+2015,Alameda,300.0
+2015,Ventura,282.0
+2015,Merced,275.0
+2015,Alameda,242.0
+2015,Mendocino,227.0
+2015,Santa Clara,215.0
+2015,Lake,215.0
+2015,Orange,214.0
+2015,Shasta,212.0
+2015,Santa Barbara,211.0
+2015,Tuolumne,204.0
+2015,Los Angeles,200.0
+2015,Siskiyou,200.0
+2015,Contra Costa,195.0
+2015,Ventura,186.0
+2015,Siskiyou,181.0
+2015,San Diego,171.0
+2015,Fresno,170.0
+2015,Tehama,170.0
+2015,Kern,167.0
+2015,San Diego,167.0
+2015,Ventura,164.0
+2015,Humboldt,158.0
+2015,Yuba,158.0
+2015,Solano,150.0
+2015,Riverside,150.0
+2015,Humboldt,146.0
+2015,Plumas,137.0
+2015,Madera,135.0
+2015,Trinity,128.0
+2015,San Joaquin,122.0
+2015,Modoc,116.0
+2015,Calaveras,114.0
+2015,Tuolumne,112.0
+2015,Lassen,111.0
+2015,Sacramento,110.0
+2015,Tehama,110.0
+2015,Placer,110.0
+2015,Shasta,109.0
+2015,Tuolumne,108.0
+2015,Butte,104.0
+2015,San Bernardino,100.0
+2015,Monterey,95.0
+2015,San Luis Obispo,95.0
+2015,Shasta,90.0
+2015,Tulare,86.0
+2015,San Diego,80.0
+2015,Riverside,80.0
+2015,Modoc,77.0
+2015,Shasta,75.0
+2015,Shasta,75.0
+2015,El Dorado,75.0
+2015,Butte,75.0
+2015,Butte,72.0
+2015,Siskiyou,69.0
+2015,Kern,67.0
+2015,San Bernardino,65.0
+2015,Fresno,60.0
+2015,Lassen,60.0
+2015,Riverside,60.0
+2015,Mariposa,60.0
+2015,Amador,60.0
+2015,Shasta,59.0
+2015,Siskiyou,58.0
+2015,San Bernardino,55.0
+2015,San Diego,55.0
+2015,Tehama,55.0
+2015,San Bernardino,54.0
+2015,Alameda,53.0
+2015,Santa Barbara,52.0
+2015,Ventura,50.0
+2015,Mendocino,50.0
+2015,Kern,45.0
+2015,Alameda,45.0
+2015,Fresno,45.0
+2015,Modoc,43.0
+2015,Santa Clara,42.0
+2015,Lassen,40.0
+2015,Stanislaus,40.0
+2015,Solano,40.0
+2015,Napa,38.0
+2015,Napa,36.0
+2015,Trinity,35.0
+2015,El Dorado,35.0
+2015,Mendocino,35.0
+2015,Nevada,30.0
+2015,Lassen,30.0
+2015,Yuba,30.0
+2015,Ventura,29.0
+2015,Placer,26.0
+2015,San Diego,25.0
+2015,San Benito,25.0
+2015,San Diego,25.0
+2015,El Dorado,25.0
+2015,Mariposa,25.0
+2015,Lake,25.0
+2015,Riverside,25.0
+2015,Siskiyou,24.0
+2015,Mendocino,23.0
+2015,Lake,22.0
+2015,Santa Barbara,21.0
+2015,Riverside,21.0
+2015,Humboldt,20.0
+2015,Napa,19.0
+2015,Shasta,18.0
+2015,Humboldt,16.0
+2015,Trinity,0.0
+2015,Alpine,0.0
+2016,Monterey,132127.0
+2016,Kern,48019.0
+2016,San Luis Obispo,46344.0
+2016,San Bernardino,36274.0
+2016,Siskiyou,33867.0
+2016,Santa Barbara,32606.0
+2016,Kern,29322.0
+2016,Santa Barbara,12518.0
+2016,San Bernardino,8110.0
+2016,San Diego,7609.0
+2016,Santa Barbara,7474.0
+2016,Fresno,7050.0
+2016,Yolo,5731.0
+2016,El Dorado,5646.0
+2016,Placer,5646.0
+2016,Inyo,5443.0
+2016,Los Angeles,5399.0
+2016,Los Angeles,4824.0
+2016,Santa Clara,4474.0
+2016,Tulare,4347.0
+2016,Lake,3929.0
+2016,Monterey,3876.0
+2016,San Luis Obispo,3712.0
+2016,Fresno,2944.0
+2016,Siskiyou,2860.0
+2016,Mono,2819.0
+2016,Modoc,2652.0
+2016,Lassen,2575.0
+2016,Monterey,2520.0
+2016,Ventura,2304.0
+2016,Fresno,2241.0
+2016,Fresno,2100.0
+2016,Kern,1785.0
+2016,Sonoma,1547.0
+2016,Riverside,1470.0
+2016,Merced,1246.0
+2016,San Diego,1245.0
+2016,Los Angeles,1109.0
+2016,Tuolumne,1080.0
+2016,Butte,850.0
+2016,Siskiyou,710.0
+2016,Mono,650.0
+2016,Humboldt,599.0
+2016,Kern,554.0
+2016,Butte,550.0
+2016,Kern,518.0
+2016,Tehama,464.0
+2016,Calaveras,450.0
+2016,Shasta,441.0
+2016,Yuba,400.0
+2016,Tulare,395.0
+2016,Modoc,380.0
+2016,Amador,372.0
+2016,Tehama,360.0
+2016,Calaveras,341.0
+2016,Calaveras,310.0
+2016,Kern,306.0
+2016,Kern,304.0
+2016,Sutter,300.0
+2016,Fresno,278.0
+2016,Yolo,277.0
+2016,Plumas,248.0
+2016,San Benito,237.0
+2016,Kern,221.0
+2016,Santa Barbara,215.0
+2016,Lake,215.0
+2016,Alameda,211.0
+2016,Amador,210.0
+2016,Fresno,188.0
+2016,El Dorado,176.0
+2016,Riverside,173.0
+2016,Placer,169.0
+2016,Fresno,158.0
+2016,Los Angeles,156.0
+2016,Fresno,151.0
+2016,Del Norte,150.0
+2016,Orange,150.0
+2016,San Luis Obispo,150.0
+2016,San Joaquin,147.0
+2016,Fresno,145.0
+2016,Stanislaus,140.0
+2016,Riverside,139.0
+2016,Kern,138.0
+2016,Fresno,132.0
+2016,Butte,130.0
+2016,Fresno,123.0
+2016,Mono,122.0
+2016,Stanislaus,120.0
+2016,Santa Clara,114.0
+2016,Butte,112.0
+2016,Madera,103.0
+2016,Shasta,100.0
+2016,Santa Clara,100.0
+2016,Kern,100.0
+2016,Stanislaus,100.0
+2016,Monterey,100.0
+2016,San Diego,100.0
+2016,San Benito,95.0
+2016,Butte,91.0
+2016,Butte,88.0
+2016,Tehama,88.0
+2016,Placer,88.0
+2016,Sacramento,87.0
+2016,San Luis Obispo,86.0
+2016,Madera,85.0
+2016,Tuolumne,85.0
+2016,Yolo,84.0
+2016,Calaveras,83.0
+2016,San Benito,83.0
+2016,Tehama,80.0
+2016,Madera,80.0
+2016,Tehama,80.0
+2016,Ventura,78.0
+2016,Shasta,75.0
+2016,Fresno,70.0
+2016,Monterey,70.0
+2016,San Diego,70.0
+2016,Lake,69.0
+2016,Napa,65.0
+2016,Kern,61.0
+2016,Solano,57.0
+2016,Calaveras,57.0
+2016,Siskiyou,56.0
+2016,Monterey,52.0
+2016,Mendocino,50.0
+2016,San Bernardino,50.0
+2016,El Dorado,50.0
+2016,Ventura,50.0
+2016,Butte,49.0
+2016,Nevada,47.0
+2016,Orange,47.0
+2016,Amador,45.0
+2016,Lake,45.0
+2016,Ventura,45.0
+2016,Tehama,43.0
+2016,Kern,43.0
+2016,Lassen,42.0
+2016,Sacramento,40.0
+2016,Riverside,40.0
+2016,Contra Costa,40.0
+2016,Nevada,38.0
+2016,Madera,38.0
+2016,Mendocino,36.0
+2016,Lake,36.0
+2016,San Diego,35.0
+2016,Shasta,35.0
+2016,Butte,35.0
+2016,Calaveras,35.0
+2016,Calaveras,33.0
+2016,Siskiyou,32.0
+2016,Tuolumne,32.0
+2016,Sacramento,32.0
+2016,Butte,30.0
+2016,Inyo,30.0
+2016,San Benito,30.0
+2016,Butte,30.0
+2016,Merced,30.0
+2016,San Diego,28.0
+2016,San Diego,28.0
+2016,Amador,26.0
+2016,Siskiyou,26.0
+2016,Santa Clara,25.0
+2016,Santa Clara,25.0
+2016,El Dorado,25.0
+2016,Lake,25.0
+2016,El Dorado,25.0
+2016,Monterey,25.0
+2016,Shasta,24.0
+2016,Humboldt,23.0
+2016,Siskiyou,23.0
+2016,Humboldt,21.0
+2016,San Bernardino,20.0
+2016,Lake,20.0
+2016,Ventura,20.0
+2016,Amador,19.0
+2016,Ventura,15.0
+2016,Tehama,11.0
+2016,Shasta,11.0
+2016,Tulare,10.0
+2016,Alpine,0.0
+2016,Los Angeles,0.0
+2016,San Luis Obispo,0.0
+2016,Los Angeles,0.0
+2016,Tulare,0.0
+2016,Los Angeles,0.0
+2017,Santa Barbara,281893.0
+2017,Ventura,281893.0
+2017,Lassen,83733.0
+2017,Modoc,83120.0
+2017,Mariposa,81826.0
+2017,Siskiyou,78698.0
+2017,Napa,56556.0
+2017,Sonoma,56556.0
+2017,Napa,51624.0
+2017,Solano,51624.0
+2017,Kings,48889.0
+2017,Siskiyou,39715.0
+2017,Napa,36807.0
+2017,Sonoma,36807.0
+2017,Tulare,36556.0
+2017,Mendocino,36523.0
+2017,San Luis Obispo,28687.0
+2017,Siskiyou,27276.0
+2017,Trinity,21846.0
+2017,Tulare,18900.0
+2017,Lassen,18618.0
+2017,Santa Barbara,18430.0
+2017,Sonoma,17357.0
+2017,Tulare,16031.0
+2017,Los Angeles,15619.0
+2017,Trinity,13417.0
+2017,Madera,12407.0
+2017,Fresno,10343.0
+2017,Yuba,9989.0
+2017,Orange,9217.0
+2017,Mono,8925.0
+2017,Butte,8417.0
+2017,Mariposa,8094.0
+2017,Modoc,7697.0
+2017,Los Angeles,7194.0
+2017,Mariposa,7000.0
+2017,Riverside,6309.0
+2017,Butte,6151.0
+2017,Los Angeles,6049.0
+2017,Lassen,6042.0
+2017,Butte,6033.0
+2017,Fresno,5738.0
+2017,Stanislaus,5247.0
+2017,Trinity,4736.0
+2017,Plumas,4310.0
+2017,San Diego,4100.0
+2017,Butte,4016.0
+2017,Riverside,3874.0
+2017,Siskiyou,3142.0
+2017,Kern,2940.0
+2017,Orange,2662.0
+2017,Plumas,2575.0
+2017,Kings,2312.0
+2017,Tulare,2295.0
+2017,Tulare,2289.0
+2017,Yolo,2269.0
+2017,Lake,2207.0
+2017,San Diego,2056.0
+2017,Sonoma,1868.0
+2017,Monterey,1816.0
+2017,San Luis Obispo,1816.0
+2017,Merced,1800.0
+2017,Stanislaus,1749.0
+2017,Sonoma,1660.0
+2017,Fresno,1649.0
+2017,Kern,1626.0
+2017,San Luis Obispo,1598.0
+2017,Fresno,1538.0
+2017,Kern,1522.0
+2017,San Bernardino,1503.0
+2017,Madera,1431.0
+2017,Kern,1350.0
+2017,Riverside,1350.0
+2017,Kern,1319.0
+2017,Sacramento,1286.0
+2017,Kern,1200.0
+2017,San Diego,1088.0
+2017,Kern,1083.0
+2017,Riverside,1044.0
+2017,Madera,1035.0
+2017,Plumas,1020.0
+2017,San Diego,1000.0
+2017,Shasta,995.0
+2017,Fresno,976.0
+2017,Mendocino,900.0
+2017,Yuba,867.0
+2017,Riverside,866.0
+2017,Lassen,859.0
+2017,Nevada,821.0
+2017,Los Angeles,800.0
+2017,San Luis Obispo,775.0
+2017,Los Angeles,760.0
+2017,Sierra,747.0
+2017,Tuolumne,690.0
+2017,Mariposa,680.0
+2017,San Bernardino,670.0
+2017,Mariposa,630.0
+2017,Modoc,562.0
+2017,Riverside,545.0
+2017,Lassen,530.0
+2017,Kern,506.0
+2017,San Diego,486.0
+2017,Siskiyou,469.0
+2017,San Luis Obispo,460.0
+2017,San Bernardino,460.0
+2017,Fresno,450.0
+2017,Santa Barbara,444.0
+2017,Madera,429.0
+2017,El Dorado,426.0
+2017,Los Angeles,422.0
+2017,Tulare,416.0
+2017,Modoc,410.0
+2017,San Diego,400.0
+2017,Fresno,400.0
+2017,Nevada,392.0
+2017,Santa Cruz,391.0
+2017,Modoc,380.0
+2017,Mono,370.0
+2017,Contra Costa,370.0
+2017,Fresno,357.0
+2017,San Luis Obispo,340.0
+2017,Tulare,339.0
+2017,Kern,338.0
+2017,San Bernardino,325.0
+2017,Del Norte,319.0
+2017,Riverside,300.0
+2017,Kern,288.0
+2017,San Bernardino,260.0
+2017,San Diego,255.0
+2017,San Luis Obispo,245.0
+2017,Fresno,237.0
+2017,El Dorado,236.0
+2017,Contra Costa,231.0
+2017,Mariposa,225.0
+2017,San Luis Obispo,225.0
+2017,San Luis Obispo,225.0
+2017,Kern,206.0
+2017,Riverside,205.0
+2017,Lake,200.0
+2017,Alameda,200.0
+2017,San Diego,200.0
+2017,Riverside,200.0
+2017,Tehama,194.0
+2017,Santa Barbara,190.0
+2017,Plumas,186.0
+2017,Fresno,186.0
+2017,Kern,184.0
+2017,Kern,183.0
+2017,Shasta,180.0
+2017,San Bernardino,170.0
+2017,Riverside,168.0
+2017,Sierra,168.0
+2017,Butte,166.0
+2017,Lassen,157.0
+2017,Madera,157.0
+2017,Alameda,155.0
+2017,Siskiyou,155.0
+2017,Riverside,153.0
+2017,Butte,150.0
+2017,San Luis Obispo,150.0
+2017,San Luis Obispo,150.0
+2017,Madera,150.0
+2017,San Bernardino,150.0
+2017,Trinity,148.0
+2017,Mendocino,146.0
+2017,Butte,143.0
+2017,El Dorado,140.0
+2017,El Dorado,136.0
+2017,Los Angeles,135.0
+2017,Tulare,135.0
+2017,Butte,134.0
+2017,Calaveras,130.0
+2017,San Diego,130.0
+2017,San Luis Obispo,130.0
+2017,Shasta,128.0
+2017,Fresno,126.0
+2017,Mariposa,125.0
+2017,Tuolumne,124.0
+2017,Riverside,122.0
+2017,San Luis Obispo,120.0
+2017,Riverside,120.0
+2017,Calaveras,117.0
+2017,Alameda,116.0
+2017,Napa,114.0
+2017,Fresno,111.0
+2017,Butte,111.0
+2017,San Luis Obispo,105.0
+2017,Riverside,105.0
+2017,Butte,103.0
+2017,Fresno,102.0
+2017,Santa Clara,101.0
+2017,San Diego,100.0
+2017,Sonoma,100.0
+2017,Lake,100.0
+2017,Solano,100.0
+2017,Santa Clara,100.0
+2017,Fresno,100.0
+2017,Santa Clara,100.0
+2017,San Bernardino,100.0
+2017,San Bernardino,99.0
+2017,Riverside,92.0
+2017,Fresno,91.0
+2017,Butte,91.0
+2017,Madera,90.0
+2017,Lake,87.0
+2017,Ventura,86.0
+2017,Riverside,85.0
+2017,Humboldt,85.0
+2017,San Bernardino,85.0
+2017,Santa Clara,85.0
+2017,Monterey,82.0
+2017,San Diego,81.0
+2017,El Dorado,80.0
+2017,Plumas,79.0
+2017,Tulare,79.0
+2017,Santa Clara,78.0
+2017,Tehama,78.0
+2017,Nevada,76.0
+2017,Fresno,76.0
+2017,San Luis Obispo,74.0
+2017,El Dorado,74.0
+2017,San Bernardino,74.0
+2017,San Luis Obispo,73.0
+2017,Riverside,72.0
+2017,San Luis Obispo,70.0
+2017,Colusa,70.0
+2017,Santa Clara,70.0
+2017,Fresno,70.0
+2017,Fresno,69.0
+2017,Sacramento,68.0
+2017,Lassen,67.0
+2017,Stanislaus,65.0
+2017,Riverside,63.0
+2017,Mariposa,63.0
+2017,San Diego,62.0
+2017,Lake,62.0
+2017,Stanislaus,62.0
+2017,Tehama,60.0
+2017,Tulare,59.0
+2017,Calaveras,59.0
+2017,Fresno,58.0
+2017,Lake,58.0
+2017,Tulare,58.0
+2017,San Luis Obispo,58.0
+2017,Tehama,57.0
+2017,Fresno,57.0
+2017,Siskiyou,56.0
+2017,Solano,55.0
+2017,Siskiyou,55.0
+2017,Los Angeles,55.0
+2017,Siskiyou,54.0
+2017,Siskiyou,54.0
+2017,Santa Clara,54.0
+2017,Santa Clara,51.0
+2017,Kern,50.0
+2017,Riverside,50.0
+2017,Los Angeles,50.0
+2017,San Mateo,50.0
+2017,Kern,50.0
+2017,Santa Barbara,50.0
+2017,Yuba,50.0
+2017,Ventura,50.0
+2017,Riverside,50.0
+2017,San Diego,50.0
+2017,Madera,48.0
+2017,Riverside,48.0
+2017,San Benito,47.0
+2017,San Luis Obispo,47.0
+2017,Riverside,46.0
+2017,San Bernardino,46.0
+2017,Siskiyou,46.0
+2017,Riverside,45.0
+2017,San Luis Obispo,45.0
+2017,Shasta,45.0
+2017,Alameda,44.0
+2017,Tehama,43.0
+2017,Monterey,43.0
+2017,Monterey,42.0
+2017,Tehama,42.0
+2017,Modoc,42.0
+2017,Siskiyou,41.0
+2017,Los Angeles,41.0
+2017,Kern,41.0
+2017,Riverside,40.0
+2017,Riverside,40.0
+2017,San Bernardino,40.0
+2017,Shasta,40.0
+2017,Kern,40.0
+2017,Del Norte,40.0
+2017,Humboldt,40.0
+2017,Tehama,40.0
+2017,Lake,40.0
+2017,Monterey,40.0
+2017,Tuolumne,39.0
+2017,Yuba,39.0
+2017,Solano,39.0
+2017,Marin,38.0
+2017,Tuolumne,38.0
+2017,Shasta,37.0
+2017,Mariposa,36.0
+2017,San Diego,36.0
+2017,Riverside,35.0
+2017,Marin,35.0
+2017,Riverside,35.0
+2017,Sacramento,35.0
+2017,Kern,35.0
+2017,Riverside,35.0
+2017,San Bernardino,34.0
+2017,Riverside,34.0
+2017,Humboldt,34.0
+2017,San Benito,34.0
+2017,Riverside,33.0
+2017,Riverside,33.0
+2017,Kern,33.0
+2017,Trinity,32.0
+2017,Trinity,32.0
+2017,Riverside,32.0
+2017,Monterey,32.0
+2017,Monterey,32.0
+2017,Monterey,31.0
+2017,Fresno,31.0
+2017,Kern,31.0
+2017,Los Angeles,30.0
+2017,Humboldt,30.0
+2017,Riverside,30.0
+2017,El Dorado,29.0
+2017,Tehama,29.0
+2017,Butte,28.0
+2017,Modoc,28.0
+2017,Del Norte,28.0
+2017,Riverside,28.0
+2017,Modoc,27.0
+2017,Riverside,27.0
+2017,Yuba,26.0
+2017,Riverside,26.0
+2017,Riverside,26.0
+2017,San Diego,25.0
+2017,San Luis Obispo,25.0
+2017,San Diego,25.0
+2017,Shasta,25.0
+2017,San Diego,25.0
+2017,Madera,25.0
+2017,Los Angeles,25.0
+2017,San Diego,25.0
+2017,Riverside,23.0
+2017,Alameda,22.0
+2017,Calaveras,22.0
+2017,Napa,22.0
+2017,San Luis Obispo,21.0
+2017,Lake,21.0
+2017,Tulare,21.0
+2017,Butte,21.0
+2017,Shasta,21.0
+2017,San Benito,21.0
+2017,Humboldt,20.0
+2017,Sonoma,20.0
+2017,Tehama,20.0
+2017,Tuolumne,20.0
+2017,San Bernardino,20.0
+2017,Mendocino,20.0
+2017,Riverside,20.0
+2017,Contra Costa,20.0
+2017,Kings,20.0
+2017,Monterey,20.0
+2017,Riverside,19.0
+2017,Nevada,19.0
+2017,Riverside,19.0
+2017,Humboldt,19.0
+2017,Stanislaus,19.0
+2017,Siskiyou,19.0
+2017,Kern,19.0
+2017,Sonoma,18.0
+2017,Butte,18.0
+2017,Fresno,18.0
+2017,Monterey,18.0
+2017,Mariposa,17.0
+2017,Shasta,17.0
+2017,Shasta,17.0
+2017,San Luis Obispo,17.0
+2017,Monterey,17.0
+2017,Riverside,17.0
+2017,Kern,16.0
+2017,San Bernardino,16.0
+2017,Fresno,16.0
+2017,Tehama,15.0
+2017,Nevada,15.0
+2017,Modoc,15.0
+2017,Monterey,15.0
+2017,Calaveras,15.0
+2017,Riverside,15.0
+2017,Santa Barbara,14.0
+2017,Santa Barbara,14.0
+2017,Butte,14.0
+2017,Monterey,14.0
+2017,Riverside,14.0
+2017,Stanislaus,13.0
+2017,El Dorado,13.0
+2017,El Dorado,13.0
+2017,San Bernardino,13.0
+2017,Butte,12.0
+2017,San Diego,12.0
+2017,San Luis Obispo,12.0
+2017,Riverside,12.0
+2017,Merced,12.0
+2017,Sonoma,11.0
+2017,Riverside,11.0
+2017,Tehama,10.0
+2017,Mariposa,10.0
+2017,Fresno,10.0
+2017,Amador,10.0
+2017,Los Angeles,10.0
+2017,Nevada,10.0
+2017,Shasta,10.0
+2017,Riverside,10.0
+2017,Butte,10.0
+2017,Riverside,10.0
+2017,Nevada,10.0
+2017,Riverside,10.0
+2017,Riverside,10.0
+2017,Kern,10.0
+2017,Riverside,10.0
+2017,Yuba,10.0
+2017,Kern,10.0
+2017,Riverside,10.0
+2017,Monterey,10.0
+2017,Sonoma,0.0
+2017,Napa,0.0
+2017,Mariposa,0.0
+2017,Siskiyou,0.0
+2017,Modoc,0.0
+2017,Glenn,0.0
+2017,Lassen,0.0
+2017,Siskiyou,0.0
+2017,San Diego,0.0
+2017,Siskiyou,0.0
+2017,Tulare,0.0
+2017,San Luis Obispo,0.0
+2017,Butte,0.0
+2018,Colusa,410203.0
+2018,Glenn,410203.0
+2018,Lake,410203.0
+2018,Mendocino,410203.0
+2018,Shasta,229651.0
+2018,Trinity,229651.0
+2018,Butte,153336.0
+2018,Los Angeles,96949.0
+2018,Ventura,96949.0
+2018,Mariposa,96901.0
+2018,Napa,90288.0
+2018,Yolo,90288.0
+2018,Shasta,63311.0
+2018,Trinity,63311.0
+2018,Colusa,48920.0
+2018,Lake,48920.0
+2018,Mendocino,48920.0
+2018,Shasta,46150.0
+2018,Modoc,39387.0
+2018,Siskiyou,38008.0
+2018,Tuolumne,36450.0
+2018,Orange,23136.0
+2018,Lassen,18703.0
+2018,Lake,15185.0
+2018,Riverside,13139.0
+2018,San Joaquin,12300.0
+2018,Mono,6974.0
+2018,Merced,4564.0
+2018,Ventura,4531.0
+2018,Solano,4500.0
+2018,Madera,4064.0
+2018,Tehama,3889.0
+2018,Tehama,3716.0
+2018,Humboldt,3674.0
+2018,Los Angeles,3380.0
+2018,Kings,2995.0
+2018,Tehama,2956.0
+2018,Kern,2950.0
+2018,Inyo,2883.0
+2018,Napa,2490.0
+2018,Glenn,2290.0
+2018,Monterey,2225.0
+2018,Solano,2162.0
+2018,Modoc,2100.0
+2018,Inyo,2070.0
+2018,Shasta,1900.0
+2018,Merced,1756.0
+2018,Trinity,1751.0
+2018,Shasta,1678.0
+2018,Solano,1500.0
+2018,San Luis Obispo,1500.0
+2018,Los Angeles,1352.0
+2018,San Bernardino,1350.0
+2018,San Benito,1314.0
+2018,Inyo,1265.0
+2018,Riverside,1261.0
+2018,Sutter,1200.0
+2018,Placer,1120.0
+2018,Santa Barbara,1014.0
+2018,Kern,993.0
+2018,Mendocino,972.0
+2018,Butte,962.0
+2018,Tehama,856.0
+2018,Amador,825.0
+2018,Yolo,822.0
+2018,Placer,700.0
+2018,Tulare,668.0
+2018,Monterey,650.0
+2018,Lassen,646.0
+2018,Alameda,640.0
+2018,Tuolumne,573.0
+2018,Butte,550.0
+2018,San Benito,513.0
+2018,San Diego,504.0
+2018,Alameda,484.0
+2018,Lassen,441.0
+2018,Monterey,400.0
+2018,Monterey,375.0
+2018,Kern,367.0
+2018,San Diego,365.0
+2018,Madera,360.0
+2018,Butte,347.0
+2018,Inyo,338.0
+2018,Shasta,328.0
+2018,Santa Clara,320.0
+2018,El Dorado,316.0
+2018,Trinity,300.0
+2018,Madera,300.0
+2018,San Diego,300.0
+2018,Kern,293.0
+2018,Calaveras,290.0
+2018,Madera,289.0
+2018,Riverside,282.0
+2018,San Benito,278.0
+2018,Contra Costa,268.0
+2018,Tehama,268.0
+2018,San Diego,265.0
+2018,Tehama,261.0
+2018,San Luis Obispo,260.0
+2018,Santa Barbara,258.0
+2018,San Diego,250.0
+2018,Contra Costa,247.0
+2018,Siskiyou,224.0
+2018,Siskiyou,215.0
+2018,San Benito,215.0
+2018,San Diego,207.0
+2018,Riverside,205.0
+2018,Kern,200.0
+2018,Merced,200.0
+2018,Butte,191.0
+2018,Ventura,186.0
+2018,Merced,185.0
+2018,Los Angeles,175.0
+2018,Orange,175.0
+2018,Santa Barbara,172.0
+2018,Tehama,170.0
+2018,Monterey,167.0
+2018,Lassen,167.0
+2018,Los Angeles,166.0
+2018,Tuolumne,163.0
+2018,Solano,160.0
+2018,Shasta,155.0
+2018,Orange,155.0
+2018,Riverside,154.0
+2018,Marin,152.0
+2018,Ventura,150.0
+2018,Monterey,150.0
+2018,El Dorado,150.0
+2018,San Bernardino,147.0
+2018,Calaveras,136.0
+2018,Napa,135.0
+2018,Los Angeles,128.0
+2018,Glenn,127.0
+2018,Siskiyou,127.0
+2018,San Bernardino,125.0
+2018,Tulare,120.0
+2018,Plumas,117.0
+2018,San Benito,116.0
+2018,Santa Clara,116.0
+2018,Mariposa,115.0
+2018,Kern,114.0
+2018,Santa Barbara,113.0
+2018,Santa Barbara,110.0
+2018,Fresno,108.0
+2018,Mendocino,106.0
+2018,Lake,103.0
+2018,Tehama,103.0
+2018,San Diego,100.0
+2018,Tulare,100.0
+2018,San Bernardino,100.0
+2018,San Luis Obispo,100.0
+2018,Monterey,96.0
+2018,Kern,95.0
+2018,Mendocino,90.0
+2018,Lassen,89.0
+2018,Lassen,88.0
+2018,Madera,88.0
+2018,Merced,88.0
+2018,San Luis Obispo,80.0
+2018,Lake,80.0
+2018,Calaveras,80.0
+2018,Santa Barbara,77.0
+2018,Shasta,76.0
+2018,Fresno,76.0
+2018,Colusa,75.0
+2018,Glenn,75.0
+2018,Riverside,73.0
+2018,Santa Clara,70.0
+2018,Santa Clara,70.0
+2018,Tehama,70.0
+2018,Riverside,70.0
+2018,Merced,68.0
+2018,El Dorado,67.0
+2018,Mendocino,67.0
+2018,El Dorado,66.0
+2018,San Benito,64.0
+2018,Santa Clara,63.0
+2018,Shasta,63.0
+2018,Riverside,63.0
+2018,Siskiyou,63.0
+2018,Stanislaus,63.0
+2018,Kern,62.0
+2018,Los Angeles,62.0
+2018,San Joaquin,62.0
+2018,Tehama,60.0
+2018,Lake,60.0
+2018,Madera,60.0
+2018,San Luis Obispo,60.0
+2018,San Luis Obispo,60.0
+2018,Santa Barbara,60.0
+2018,San Diego,59.0
+2018,San Luis Obispo,58.0
+2018,Lassen,56.0
+2018,Contra Costa,56.0
+2018,Madera,56.0
+2018,San Bernardino,53.0
+2018,Lassen,53.0
+2018,Mariposa,53.0
+2018,Modoc,52.0
+2018,San Luis Obispo,51.0
+2018,Shasta,51.0
+2018,Santa Clara,51.0
+2018,Lake,50.0
+2018,Tehama,50.0
+2018,Monterey,50.0
+2018,Alameda,48.0
+2018,Contra Costa,45.0
+2018,Marin,45.0
+2018,Butte,43.0
+2018,Riverside,40.0
+2018,Mariposa,40.0
+2018,Contra Costa,40.0
+2018,Butte,40.0
+2018,San Benito,39.0
+2018,Shasta,38.0
+2018,San Diego,38.0
+2018,San Luis Obispo,37.0
+2018,Siskiyou,37.0
+2018,Lake,36.0
+2018,Riverside,36.0
+2018,Mendocino,35.0
+2018,Riverside,35.0
+2018,Shasta,35.0
+2018,San Benito,35.0
+2018,Kern,34.0
+2018,Alameda,34.0
+2018,Tulare,34.0
+2018,Butte,33.0
+2018,Tehama,33.0
+2018,San Bernardino,33.0
+2018,Tulare,33.0
+2018,Fresno,32.0
+2018,Riverside,32.0
+2018,Lassen,32.0
+2018,Lake,32.0
+2018,Shasta,31.0
+2018,Santa Clara,30.0
+2018,Contra Costa,30.0
+2018,Alameda,30.0
+2018,Riverside,30.0
+2018,San Luis Obispo,30.0
+2018,Sacramento,30.0
+2018,Fresno,30.0
+2018,San Diego,28.0
+2018,Siskiyou,27.0
+2018,Tulare,26.0
+2018,Riverside,25.0
+2018,Contra Costa,25.0
+2018,San Luis Obispo,25.0
+2018,Lake,24.0
+2018,Riverside,23.0
+2018,Contra Costa,23.0
+2018,Tehama,23.0
+2018,Mariposa,22.0
+2018,Riverside,21.0
+2018,Contra Costa,20.0
+2018,Alameda,20.0
+2018,Santa Clara,20.0
+2018,Alameda,20.0
+2018,Riverside,20.0
+2018,Butte,20.0
+2018,Los Angeles,20.0
+2018,Plumas,20.0
+2018,San Diego,18.0
+2018,Riverside,18.0
+2018,Santa Cruz,17.0
+2018,Amador,17.0
+2018,Riverside,17.0
+2018,Nevada,16.0
+2018,Humboldt,16.0
+2018,Santa Clara,16.0
+2018,Siskiyou,15.0
+2018,Modoc,15.0
+2018,Riverside,15.0
+2018,Riverside,15.0
+2018,San Diego,14.0
+2018,San Luis Obispo,14.0
+2018,Lassen,14.0
+2018,Yolo,14.0
+2018,Shasta,13.0
+2018,San Diego,13.0
+2018,Fresno,13.0
+2018,Shasta,12.0
+2018,El Dorado,12.0
+2018,San Bernardino,12.0
+2018,Madera,12.0
+2018,Marin,12.0
+2018,San Diego,12.0
+2018,Siskiyou,12.0
+2018,San Luis Obispo,12.0
+2018,Napa,12.0
+2018,Alameda,12.0
+2018,San Diego,12.0
+2018,Butte,11.0
+2018,Madera,11.0
+2018,Riverside,11.0
+2018,Shasta,11.0
+2018,Santa Cruz,10.0
+2018,Humboldt,10.0
+2018,Butte,10.0
+2018,Riverside,10.0
+2018,Napa,10.0
+2018,Siskiyou,10.0
+2018,San Diego,10.0
+2018,Butte,10.0
+2018,San Luis Obispo,10.0
+2018,Monterey,10.0
+2018,Sonoma,10.0
+2018,San Diego,10.0
+2018,Tehama,10.0
+2018,Riverside,10.0
+2018,Riverside,10.0
+2018,Butte,0.0
+2018,Humboldt,0.0
+2018,Santa Barbara,0.0
+2018,Ventura,0.0
+2019,Ventura,1806.0
+2019,Mariposa,1300.0
+2019,Riverside,1011.0
+2019,Tehama,605.0
+2019,Riverside,494.0
+2019,Placer,355.0
+2019,Monterey,289.0
+2019,San Luis Obispo,289.0
+2019,Mariposa,149.0
+2019,Fresno,137.0
+2019,Lassen,107.0
+2019,Riverside,75.0
+2019,Contra Costa,40.0
+2019,San Diego,37.0
+2019,Alameda,35.0
+2019,Stanislaus,35.0
+2019,Shasta,30.0
+2019,Calaveras,27.0
+2019,San Bernardino,26.0
+2019,San Diego,25.0
+2019,El Dorado,22.0
+2019,Alameda,22.0
+2019,Contra Costa,15.0
+2019,Riverside,12.0
+2019,Mendocino,10.0
+2019,Santa Cruz,10.0
+2019,Sonoma,77758.0
+2019,Plumas,54612.0
+2019,Modoc,14217.0
+2019,Inyo,10296.0
+2019,Ventura,9999.0
+2019,Tehama,8838.0
+2019,Los Angeles,8799.0
+2019,Modoc,5737.0
+2019,Mariposa,5563.0
+2019,Tehama,5332.0
+2019,Mono,4840.0
+2019,Los Angeles,4615.0
+2019,El Dorado,3435.0
+2019,Lassen,3380.0
+2019,Santa Barbara,3126.0
+2019,Monterey,2546.0
+2019,Tehama,2534.0
+2019,Yolo,2512.0
+2019,Kern,2500.0
+2019,Lassen,2438.0
+2019,Stanislaus,2422.0
+2019,Inyo,1975.0
+2019,Riverside,1926.0
+2019,Siskiyou,1872.0
+2019,San Luis Obispo,1764.0
+2019,Mexico,1507.0
+2019,Sutter,1350.0
+2019,State of Oregon,1301.0
+2019,State of Nevada,1165.0
+2019,San Luis Obispo,1127.0
+2019,Lassen,1020.0
+2019,San Luis Obispo,974.0
+2019,San Luis Obispo,835.0
+2019,Contra Costa,757.0
+2019,Tulare,756.0
+2019,Los Angeles,745.0
+2019,Mendocino,703.0
+2019,Placer,604.0
+2019,Shasta,600.0
+2019,Stanislaus,600.0
+2019,Napa,526.0
+2019,Riverside,525.0
+2019,Riverside,520.0
+2019,Butte,496.0
+2019,San Diego,448.0
+2019,Kern,448.0
+2019,Mariposa,423.0
+2019,Santa Barbara,420.0
+2019,Tulare,381.0
+2019,Riverside,350.0
+2019,Riverside,328.0
+2019,Monterey,316.0
+2019,Butte,300.0
+2019,San Joaquin,283.0
+2019,Trinity,280.0
+2019,Monterey,280.0
+2019,Ventura,279.0
+2019,Lassen,263.0
+2019,Lassen,260.0
+2019,Tulare,257.0
+2019,Riverside,250.0
+2019,Trinity,244.0
+2019,Mariposa,244.0
+2019,Alameda,240.0
+2019,Siskiyou,227.0
+2019,Mendocino,225.0
+2019,San Luis Obispo,220.0
+2019,Riverside,214.0
+2019,Madera,213.0
+2019,Merced,210.0
+2019,Santa Clara,210.0
+2019,Kern,208.0
+2019,Siskiyou,207.0
+2019,Stanislaus,202.0
+2019,San Bernardino,200.0
+2019,Contra Costa,200.0
+2019,Ventura,200.0
+2019,San Diego,200.0
+2019,Santa Barbara,200.0
+2019,Lassen,193.0
+2019,Stanislaus,190.0
+2019,Monterey,190.0
+2019,Solano,183.0
+2019,Kern,172.0
+2019,Riverside,167.0
+2019,San Benito,167.0
+2019,Kings,161.0
+2019,Shasta,156.0
+2019,Los Angeles,156.0
+2019,San Bernardino,156.0
+2019,Tulare,155.0
+2019,Contra Costa,150.0
+2019,San Diego,150.0
+2019,Placer,148.0
+2019,San Bernardino,145.0
+2019,Santa Clara,144.0
+2019,Solano,140.0
+2019,Alameda,139.0
+2019,Lassen,131.0
+2019,Ventura,131.0
+2019,Lassen,130.0
+2019,Mendocino,130.0
+2019,Riverside,130.0
+2019,Santa Clara,128.0
+2019,Modoc,128.0
+2019,Fresno,121.0
+2019,San Diego,120.0
+2019,San Luis Obispo,120.0
+2019,Kern,115.0
+2019,Los Angeles,105.0
+2019,Modoc,103.0
+2019,Santa Barbara,100.0
+2019,San Diego,100.0
+2019,Riverside,98.0
+2019,San Diego,97.0
+2019,Riverside,96.0
+2019,San Luis Obispo,95.0
+2019,Riverside,94.0
+2019,Ventura,91.0
+2019,Siskiyou,91.0
+2019,San Joaquin,90.0
+2019,Shasta,90.0
+2019,El Dorado,85.0
+2019,Sacramento,84.0
+2019,Tuolumne,83.0
+2019,Siskiyou,83.0
+2019,Solano,81.0
+2019,San Bernardino,81.0
+2019,Riverside,81.0
+2019,Butte,80.0
+2019,Riverside,80.0
+2019,San Diego,80.0
+2019,Santa Clara,80.0
+2019,Riverside,80.0
+2019,Yuba,80.0
+2019,Yuba,80.0
+2019,Lake,75.0
+2019,Santa Clara,74.0
+2019,Yuba,70.0
+2019,Tehama,68.0
+2019,Marin,67.0
+2019,Calaveras,67.0
+2019,Monterey,66.0
+2019,Placer,65.0
+2019,Napa,64.0
+2019,Glenn,63.0
+2019,Tehama,63.0
+2019,San Mateo,62.0
+2019,Santa Clara,60.0
+2019,Butte,58.0
+2019,Contra Costa,58.0
+2019,Lassen,55.0
+2019,Riverside,55.0
+2019,Lake,53.0
+2019,San Luis Obispo,52.0
+2019,San Diego,52.0
+2019,San Diego,50.0
+2019,Contra Costa,50.0
+2019,Sacramento,50.0
+2019,Napa,50.0
+2019,Butte,50.0
+2019,Santa Clara,47.0
+2019,Tulare,47.0
+2019,Shasta,46.0
+2019,Tehama,46.0
+2019,Riverside,45.0
+2019,San Joaquin,44.0
+2019,Monterey,43.0
+2019,Los Angeles,42.0
+2019,Shasta,42.0
+2019,Yuba,38.0
+2019,Santa Clara,35.0
+2019,El Dorado,35.0
+2019,Siskiyou,35.0
+2019,Santa Clara,35.0
+2019,Riverside,34.0
+2019,Riverside,34.0
+2019,Yolo,33.0
+2019,Tulare,33.0
+2019,San Luis Obispo,30.0
+2019,Solano,30.0
+2019,Shasta,30.0
+2019,Shasta,30.0
+2019,Alameda,30.0
+2019,Riverside,30.0
+2019,Humboldt,30.0
+2019,Santa Clara,29.0
+2019,Kern,29.0
+2019,Lake,28.0
+2019,San Diego,28.0
+2019,Placer,27.0
+2019,Riverside,26.0
+2019,Lake,25.0
+2019,Fresno,25.0
+2019,Mexico,25.0
+2019,San Diego,25.0
+2019,Alameda,25.0
+2019,Tulare,25.0
+2019,Contra Costa,24.0
+2019,Solano,24.0
+2019,Contra Costa,23.0
+2019,San Diego,22.0
+2019,Tuolumne,21.0
+2019,Colusa,20.0
+2019,Riverside,20.0
+2019,Lake,20.0
+2019,Riverside,20.0
+2019,Riverside,20.0
+2019,Riverside,19.0
+2019,Riverside,19.0
+2019,Alameda,19.0
+2019,Stanislaus,18.0
+2019,San Benito,17.0
+2019,Santa Clara,17.0
+2019,Butte,17.0
+2019,Siskiyou,17.0
+2019,Shasta,16.0
+2019,El Dorado,16.0
+2019,Siskiyou,15.0
+2019,San Bernardino,15.0
+2019,San Diego,15.0
+2019,El Dorado,13.0
+2019,Alameda,12.0
+2019,Butte,12.0
+2019,San Bernardino,11.0
+2019,Tehama,11.0
+2019,Stanislaus,11.0
+2019,Alameda,11.0
+2019,San Diego,10.0
+2019,Tehama,10.0
+2019,Amador,10.0
+2019,Riverside,10.0
+2019,Butte,10.0
+2019,Siskiyou,10.0
+2019,Butte,10.0
+2019,Riverside,9.0
+2019,Nevada,2.0
+2019,Yolo,
+2019,San Diego,
+2019,Riverside,
