@@ -1,5 +1,5 @@
-# Project_1
-## Does income level determine exposure to extreme weather in California?
+
+# Does income level determine exposure to extreme weather in California?
  
 # Background
 * Motivation: Income level can determine exposure to extreme weather across the globe. Lim et al. 2020 found that in the United States from 1996-2001, higher income reduced extreme heat vulnerability, while poverty intensified extreme heat vulnerability
