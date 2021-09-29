@@ -5,7 +5,7 @@
 * Motivation: Income level can determine exposure to extreme weather across the globe.
 Lim et al. 2020 found that in the United States from 1996-2001, higher income reduced extreme heat vulnerability, while poverty intensified extreme heat vulnerability
 * Hypothesis: In the state of California, counties with lower income and higher poverty rates have more exposure to extreme weather (high temperatures, extreme drought, wildfires). 
- 
+
 # Table of Contents
 
 * [Motivation and Questions](##Motivation-and-Questions)
