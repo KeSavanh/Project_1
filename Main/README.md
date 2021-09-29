@@ -2,29 +2,39 @@
 ## Does income level determine exposure to extreme weather in California?
  
 # Background
-* Motivation: Income level can determine exposure to extreme weather across the globe.
-Lim et al. 2020 found that in the United States from 1996-2001, higher income reduced extreme heat vulnerability, while poverty intensified extreme heat vulnerability
+* Motivation: Income level can determine exposure to extreme weather across the globe. Lim et al. 2020 found that in the United States from 1996-2001, higher income reduced extreme heat vulnerability, while poverty intensified extreme heat vulnerability
 * Hypothesis: In the state of California, counties with lower income and higher poverty rates have more exposure to extreme weather (high temperatures, extreme drought, wildfires). 
+* 
+The project is carried out in `Jupiter notebook` and has two parts as below:\
+[Data processing](https://github.com/KeSavanh/Project_1/blob/main/Main/Data_process.ipynb)\
+[Analysis](https://github.com/KeSavanh/Project_1/blob/main/Main/Analysis.ipynb)\
+
+The slides using for presentation the analysis results is below:
+[Presentation](https://docs.google.com/presentation/d/1_mFfFTWAzaT6WqJJRVio4y5oVnrvanC3miMxWxwGdfY/edit#slide=id.p)
+
+The summary of the project is linked below:
+[Project Summary](https://docs.google.com/document/d/1NnKWNrwLr9XuaRLw8D05oUPrhxtERhdI/edit)
+
 
 # Table of Contents
 
-* [Motivation and Questions](##Motivation-and-Questions)
-* [Data source](##Data-source)
-* [Data Cleanup and Exploration](##Data-Cleanup-and-Exploration)
-* [Data Analysis](##Data-Analysis)
-    * [Max Temperature and Household Income](###Max-Temperature-and-Household-Income)
-    * [Max Temperature and Poverty Rates](###Max-Temperature-and-Poverty-Rates)
+* [Motivation and Questions](#Motivation-and-Questions)
+* [Data source](#Data-source)
+* [Data Cleanup and Exploration](#Data-Cleanup-and-Exploration)
+* [Data Analysis](#Data-Analysis)
+    * [Max Temperature and Household Income](#Max-Temperature-and-Household-Income)
+    * [Max Temperature and Poverty Rates](#Max-Temperature-and-Poverty-Rates)
     * [Percentage of Population in Each Drought Catagory](###Percentage-of-Population-in-Each-Drought-Catagory)
-    * [Drought and Household Income ](###Drought-and-Household-Income)
-    * [Drought and Poverty Rates](###Drought-and-Poverty-Rates)
-    * [Total Acres Burned and Household Income](###Total-Acres-Burned-and-Household-Income)
-    * [Total Acres Burned and Poverty Rates](###Total-Acres-Burned-and-Poverty-Rates)
-    * [Average Acres Burned and Household Income](###Average-Acres-Burned-and-Household-Income)
-    * [Average Acres Burned and Poverty Rates](###Average-Acres-Burned-and-Poverty-Rates)
-* [Summary and Discusion](##Summary-and-Discusion)
+    * [Drought and Household Income ](#Drought-and-Household-Income)
+    * [Drought and Poverty Rates](#Drought-and-Poverty-Rates)
+    * [Total Acres Burned and Household Income](#Total-Acres-Burned-and-Household-Income)
+    * [Total Acres Burned and Poverty Rates](#Total-Acres-Burned-and-Poverty-Rates)
+    * [Average Acres Burned and Household Income](#Average-Acres-Burned-and-Household-Income)
+    * [Average Acres Burned and Poverty Rates](#Average-Acres-Burned-and-Poverty-Rates)
+* [Summary and Discusion](#Summary-and-Discusion)
     
     
-## Motivation and Questions
+## <a name="Motivation-and-Questions"></a> Motivation and Questions
 The objective of this analysis is to answer the questions below:
     * Do populations with lower income & higher poverty rates experience higher temperatures?
     * Are populations with lower income & higher poverty rates more likely to experience extreme and exceptional drought conditions? 
